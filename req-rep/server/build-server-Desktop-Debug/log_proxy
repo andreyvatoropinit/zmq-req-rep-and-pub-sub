@@ -1,0 +1,60 @@
+Proxy got data from app 1 
+11234455
+
+Proxy send data to app 2 
+11234455
+
+Proxy got data from app 2 
+55443211
+
+Proxy send data to app 1 
+55443211
+
+Proxy got data from app 1 
+12345
+
+Proxy send data to app 2 
+12345
+
+Proxy got data from app 2 
+54321
+
+Proxy send data to app 1 
+54321
+
+Proxy got data from app 1 
+123456
+
+Proxy send data to app 2 
+123456
+
+Proxy got data from app 2 
+654321
+
+Proxy send data to app 1 
+654321
+
+Proxy got data from app 1 
+123456
+
+Proxy send data to app 2 
+123456
+
+Proxy got data from app 2 
+654321
+
+Proxy send data to app 1 
+654321
+
+Proxy got data from app 1 
+123456
+
+Proxy send data to app 2 
+123456
+
+Proxy got data from app 2 
+654321
+
+Proxy send data to app 1 
+654321
+
